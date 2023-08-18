@@ -113,6 +113,9 @@ There are a few sample flows listed below. Some developers may not have access t
     ? Select Org Adobe IO DEV
     ```
 
+    #### Issue with steps, as after prior step, need to select a template similar to below
+   What templates do you want to search for?
+
 1. Once you have selected org, project and workspace, next, select the product you would like to extend:
 
     ```bash
